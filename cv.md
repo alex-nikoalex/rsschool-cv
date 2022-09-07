@@ -17,10 +17,19 @@
 
 ### English level ###
   **Intermediate.** *SkyEng, Self-learning.*
-  
+
 ---
 
 ### Strengths ###
   * perseverance
   * responsibility
   * fast learning
+
+---
+
+### Code examples ###
+```
+function multiply(a, b){
+ return a * b
+}
+```
