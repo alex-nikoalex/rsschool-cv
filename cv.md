@@ -17,3 +17,10 @@
 
 ### English level ###
   **Intermediate.** *SkyEng, Self-learning.*
+  
+---
+
+### Strengths ###
+  * perseverance
+  * responsibility
+  * fast learning
