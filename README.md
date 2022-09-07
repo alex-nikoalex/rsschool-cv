@@ -1,2 +1,1 @@
-# rsschool-cv
-first task 
+https://alex-nikoalex.github.io/rsschool-cv/
